@@ -1,5 +1,6 @@
-
-<img src="https://github.com/user-attachments/assets/44fec949-bace-4080-b464-4468cddc88d3" width="180" style="border-radius: 50%;">
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/44fec949-bace-4080-b464-4468cddc88d3" width="200" style="border-radius: 50%;">
+</p>
 
 # Projeto Podcast Gerado por I.A.s
 O projeto tem o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhados.  

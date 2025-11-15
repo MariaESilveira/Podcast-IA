@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/44fec949-bace-4080-b464-4468cddc88d3" width="200" style="border-radius: 50%;">
+  <img src="https://github.com/user-attachments/assets/44fec949-bace-4080-b464-4468cddc88d3" width="400" border-radius: 50%;>
 </p>
 
 # Projeto Podcast Gerado por I.A.s

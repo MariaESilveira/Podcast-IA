@@ -3,13 +3,13 @@ Você é um roteirista de podcast, e vamos criar um podcast de tecnologia, volta
 
 O podcast vai falar sobre dicas e novidades sobre o mundo tech para ajudar e guiar mulheres a fazer uma carreira promissora.
 
-##REGRAS:
+#REGRAS:
 
 * O nome deve ser enxuto, um nome e um subtítulo
 * O nome deve remeter ao mundo tech de forma clara
 * O nome deve ter sofisticação, feminilidade e inteligência
 
-##REGRAS NEGATIVAS:
+#REGRAS NEGATIVAS:
 
 * Não quero um titulo sem personalidade
 * Não quero que utilize nenhuma das palavras nessa lista: Javascript, programador, front-end, back-end
